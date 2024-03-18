@@ -1,2 +1,3 @@
 # Morpion
- Morpion codé en Python affiché dans la console.
+ Morpion affiché dans la console.
+ Langage utilisé: Python.
